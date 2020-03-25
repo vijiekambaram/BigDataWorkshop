@@ -1,4 +1,4 @@
-![Microsoft Cloud Workshop](https://github.com/vijiekambaram/BigDataWorkshop/blob/master/media/tiger_analytics_logo.PNG' Microsoft Tiger Analytics Cloud Workshop')
+![Microsoft Cloud Workshop]('https://github.com/vijiekambaram/BigDataWorkshop/blob/master/media/tiger_analytics_logo.PNG' Microsoft Tiger Analytics Cloud Workshop')
 
 <div class="MCWHeader1">
 Big data and visualization
